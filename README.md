@@ -14,7 +14,9 @@ Star⭐ the repo if you like what you see😉.
 
 #### 2. Clone the repo
 
-#### 3. Enjoy
+#### 3. Log on to https://deepar.ai/ to create an account, Generate Android/IOS Key Then ChangeCode
+
+#### 4. Enjoy
 
 ## 🤓 Author(s)
 **Ayoub Ghoudan

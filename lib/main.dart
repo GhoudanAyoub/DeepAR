@@ -44,10 +44,8 @@ class _MyAppState extends State<MyApp> {
                   print("Video Recorded @ $path");
                 },
                 //Enter the App key generate from Deep AR
-                androidLicenceKey:
-                    "2e132d47e11debf42adc2654c7c2c3e92f54456e4e8f0bf26a366bfa4445be0215602b8ba1a31f51",
-                iosLicenceKey:
-                    "53618212114fc16bbd7499c0c04c2ca11a4eed188dc20ed62a7f7eec02b41cb34d638e72945a6bf6",
+                androidLicenceKey: "<YOUR_ANDROID_KEY>",
+                iosLicenceKey: "<YOUR_IOS_KEY>",
                 cameraDeepArCallback: (c) async {
                   cameraDeepArController = c;
                   setState(() {});
